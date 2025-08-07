@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889924422155",
+    "project_id": "descomplicajus-77f4d",
+    "storage_bucket": "descomplicajus-77f4d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889924422155:android:62ab7890cb0fc129a0950e",
+        "android_client_info": {
+          "package_name": "com.example.jurisimplificado"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxdQJvg5rNYGbmt2yAOBCOCwP0oFqeUPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Este drawable 'wrapper' garante que nosso ícone não seja cortado em um círculo.
+    Ele define uma área e coloca nossa logo dentro dela com um padding.
+-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Camada 1: Ícone da sua logo -->
+    <!-- IMPORTANTE: Substitua '@drawable/logo_splash' se o nome da sua imagem for outro. -->
+    <item
+        android:drawable="@drawable/vector"
+        android:width="170dp"
+        android:height="40dp"
+        android:gravity="center" />
+
+</layer-list>

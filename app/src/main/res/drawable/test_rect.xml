@@ -1,0 +1,5 @@
+<!-- Arquivo: res/drawable/test_rect.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="#FF0000" /> <!-- Um retângulo vermelho sólido -->
+</shape>

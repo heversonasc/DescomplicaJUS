@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- CAMADA 1: A COR DE FUNDO -->
+    <item android:drawable="@android:color/black" />
+
+    <!-- CAMADA 2: SUA LOGO NO CENTRO -->
+    <!-- Aponte para seu arquivo de imagem original, que é o 'vector' -->
+    <item
+        android:width="160dp"
+        android:height="50dp"
+        android:drawable="@drawable/vector"
+        android:gravity="center" />
+
+</layer-list>
